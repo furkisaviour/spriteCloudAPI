@@ -1,0 +1,18 @@
+{
+  "id": 650,
+  "category": {
+    "id": 8,
+    "name": "vogel"
+  },
+  "name": "lola",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 8,
+      "name": "male"
+    }
+  ],
+  "status": "available"
+}
